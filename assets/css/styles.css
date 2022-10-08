@@ -1,8 +1,8 @@
-.bgimage{
-    background-image: url("../images/home-image.JPG");
+.bgimage img{
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 100%;
+    width: 100%;
 }
 
 .title{
